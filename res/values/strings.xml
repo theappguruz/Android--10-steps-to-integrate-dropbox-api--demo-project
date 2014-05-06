@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">DemoBlog</string>
+
+    <string name="done">Done</string>
+
+    <string name="dropbox">dropbox</string>
+
+    <string name="drop_box">DropBox</string>
+
+    <string name="upload_photo">Upload Photo</string>
+
+    <string name="download">Download</string>
+
+</resources>
